@@ -1,0 +1,10 @@
+# absolute save path to be safe
+save_path: /$HOME/img/reddit_testing/
+
+subreddits: 
+    - pics
+
+listing: hot
+
+# How many posts do we check at each pass of a subreddit
+number_of_posts: 10

@@ -1,0 +1,14 @@
+# absolute save path to be safe
+save_path: /$HOME/img/reddit/
+
+
+# List of subreddits to monitor
+subreddits: 
+    - pics
+    - funny
+
+# Are we searching for hot, top or new posts?
+listing: hot
+
+# How many posts do we check at each pass of a subreddit
+number_of_posts: 10
